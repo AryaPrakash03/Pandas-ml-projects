@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Mini-Projects
+# Data Science & Machine Learning Projects
 
 This repository contains compact data science and machine learning projects built with **Python**, **Pandas**, **Matplotlib**, and **Scikit-learn**, showcasing data handling, visualization, and modeling.
 
